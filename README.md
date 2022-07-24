@@ -1,5 +1,4 @@
 # valorantmatchhistory
-Valorant Match History Visualization using Tableau 
 
 Tableau Public Dashboard Link: https://public.tableau.com/views/valorantmatchhistory/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
