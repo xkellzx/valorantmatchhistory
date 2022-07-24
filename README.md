@@ -1,4 +1,6 @@
 # valorantmatchhistory
+Valorant Match History Visualization using Tableau 
+
 Tableau Public Dashboard Link: https://public.tableau.com/views/valorantmatchhistory/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 After requesting my data from Riot Games, I decided to play around a bit with the data files by creating visualizations in Tableau.
